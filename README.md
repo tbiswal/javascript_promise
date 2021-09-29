@@ -1,4 +1,4 @@
-# javascript-prototype
+# javascript-promise
 
-Please watch [the webinar](https://www.youtube.com/watch?v=FRJdN9cVEVQ), use Fundamentals Of JS Prototype.pdf slide and the examples to understand the fundamentals of javascript prototype.
+These examples are using the samples from You Don't Know Javascript book
 
