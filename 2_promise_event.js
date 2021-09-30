@@ -1,6 +1,6 @@
 function foo(x) {
 	setTimeout(function() { 
-		console.log('Doing something here which will take a while')
+		console.log('Doing something here which will take a while');
 	}, 3000);
 
 	return new Promise( function(resolve, reject){
